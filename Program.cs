@@ -10,9 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("oi galera");
-            System.Console.WriteLine("email : dario@gir.srv.br");
-            System.Console.Write(" !"); 
+           
+           System.Console.WriteLine("email : dario@gir.srv.br");
+           System.Console.Write("!"); 
         }
     }
 }
