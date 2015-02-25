@@ -10,11 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            
-            
-            
-            System.Console.WriteLine("dario@gir.srv.br");
-          
+            System.Console.WriteLine("Oi");
+            System.Console.WriteLine("meu email é dario@gir.srv.br");
         }
     }
 }
