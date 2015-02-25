@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             System.Console.WriteLine("oi galera");
             System.Console.WriteLine("meu email é dario@gir.srv.br");
-            System.Console.Write(" ! "); 
+            System.Console.Write(" !"); 
         }
     }
 }
